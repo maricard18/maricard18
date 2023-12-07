@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-My name is Mário Henriques and I am a programming student at [42Porto](https://www.42porto.com/). <br>
-Started this programming journey in the summer of 2022 and enjoying every part of it! <br>
-I got into this line of work because of the freedom that my creativity has, were I can create whatever I want!
+My name is Mário Henriques and I am a software developer at [42Porto](https://www.42porto.com/). 🚀 <br>
+Specializing in C and C++, I'm dedicated to creating robust and efficient solutions. 💻 <br>
+Check out my projects to see how I leverage these languages for innovation. <br>
+Let's connect and collaborate on the exciting world of software development! Happy coding! 🌟
 
 <a href = "mailto:mariojunior200218@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mario18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
